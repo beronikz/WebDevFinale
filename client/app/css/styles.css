@@ -1,0 +1,10 @@
+body {
+    padding-top: 70px;
+    background-color: #fafad2;
+}
+.navbar-brand{
+	width: 100%;
+}
+.hidden {
+    display: none;
+} 
